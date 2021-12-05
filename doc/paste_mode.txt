@@ -1,4 +1,4 @@
-*paste_mode.txt*	goyo	Last change: April 2 2017
+*paste_mode.txt*	paste mode
 
 USAGE                                                          *paste_mode*
 ==============================================================================
